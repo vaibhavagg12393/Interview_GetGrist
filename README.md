@@ -62,9 +62,9 @@ You are given a 2-dimensional grid of integers, like the example below. Consider
 
 The specific grid for you to solve is given as a rectangular array of arrays in JSON format. The top-left corner is `array[0][0]`. You are to write a program, in a language of your choice, which finds a path with the largest sum, and outputs it as a string of characters: `R` for a step to the right, and `D` for a step down. Your program should also output the path's value.
 
-For example, the sample above is available as [JSON here](https://github.com/vaibhavagg12393/Interview_GetGrist/sample1.json), and a correct solution to it is the highlighted path `DDDRRDRRRD`, with the value of `60`.
+For example, the sample above is available as [JSON here](https://github.com/vaibhavagg12393/Interview_GetGrist/blob/master/data/sample1.json), and a correct solution to it is the highlighted path `DDDRRDRRRD`, with the value of `60`.
 
-Here is the specific [challenge to solve](https://github.com/vaibhavagg12393/data/sample2.json).
+Here is the specific [challenge to solve](https://github.com/vaibhavagg12393/Interview_GetGrist/blob/master/data/sample2.json).
 
 ## Installation
 
@@ -95,4 +95,4 @@ DDDRRDRRRD
 
 ```
 
-**Note** the above execution implements the supplied input file from the [`data/`](https://github.com/vaibhavagg12393/Interview_GetGrist/data/sample1.json) subdirectory.
+**Note** the above execution implements the supplied input file from the [`data/`](https://github.com/vaibhavagg12393/Interview_GetGrist/blob/master/data/sample1.json) subdirectory.
