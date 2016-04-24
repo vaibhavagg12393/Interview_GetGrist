@@ -66,11 +66,18 @@ For example, the sample above is available as [JSON here](https://github.com/vai
 
 Here is the specific [challenge to solve](https://github.com/vaibhavagg12393/Interview_GetGrist/blob/master/data/sample2.json).
 
-## Installation
+## Configuration
 
+Fork this project in your GitHub account, then clone your repository:
+
+  Run the following query on terminal.
+  ```
+  git clone http://github.com/vaibhavagg12393/Interview_GetGrist.git
+  ```
+  
 Instructions to import java-json.jar file to Eclipse
   
-   A.) Download the ZIP file from this ['URL'](http://www.java2s.com/Code/JarDownload/java/java-json.jar.zip) and extract it to get the Jar.<br>
+   A.) Download the ZIP file from this ['URL'](http://www.java2s.com/Code/JarDownload/java/java-json.jar.zip) and extract it to get the Jar in the cloned directory.<br>
        
    B.) Add the Jar to your build path.<br><br>
   	   To Add this Jar to your build path, follow these steps:
@@ -81,11 +88,11 @@ Instructions to import java-json.jar file to Eclipse
        
 ```
         
-   C.) Compile and run the code<br>
+   C.) Compile and run the code in any IDE ( I used Eclipse)<br>
    
 ##Execution
 
-To execute this exercise, compile and run GetGrist.java in any IDE ( I used Eclipse)
+To execute this exercise, first add the JSON library to the build path, then compile and run GetGrist.java in any IDE ( I used Eclipse)
 
 ###Output
 
